@@ -1,1 +1,1 @@
-# stub-hunter
+# StubHunter
